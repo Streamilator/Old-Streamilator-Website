@@ -4,5 +4,6 @@ a {
 }
 
 .navbar-brand {
-  text-size: 28px;
+  text-size: 25px;
+  color: white;
 }
