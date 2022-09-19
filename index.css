@@ -3,7 +3,7 @@ a, a:hover {
   text-decoration: none;
 }
 
-.navbar-brand {
+.navbar-brand, .navbar-brand:hover {
   font-size: 25px;
   color: white;
 }
